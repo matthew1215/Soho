@@ -22,4 +22,6 @@ echo $twitter->setGetfield($getfield)
              ->buildOauth($url, $requestMethod)
              ->performRequest();
 
+// tom test
+
 ?>
